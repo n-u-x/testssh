@@ -1,6 +1,10 @@
 > Use multiple SSH keys on one client
 
-Save from hassles not re-entering username/passwd mutiple times with *HTTPS*
+<details>
+    <summary>Save from hassles when accessing remote servers(like Github)</summary>
+
+    ▶ avoid from re-entering username/passwd mutiple times with *HTTPS*
+</details>
 
 ### Generate/Upload `private`/`public` key pairs
 
@@ -29,5 +33,7 @@ Save from hassles not re-entering username/passwd mutiple times with *HTTPS*
 
 2. Set the right author if necessary
 
-    `git config user.name <username>`
-    `git config user.email <email>`
+    ```
+    git config user.name <username>
+    git config user.email <email>
+    ```
