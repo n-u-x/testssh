@@ -18,7 +18,7 @@
     Host personal/company # alias of HostName
     HostName github.com
     User git
-    IdentityFile ~/.ssh/nux.github.is_rsa
+    IdentityFile ~/.ssh/nux.github.id_rsa
     ```
 
 3. Add generated public key to Github (remote server)
